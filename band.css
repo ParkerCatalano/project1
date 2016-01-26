@@ -1,0 +1,23 @@
+.column {
+  width: 300px;
+  float: left;
+}
+.img {
+  float:left;
+  margin: 12px;
+  padding: 5px;
+}
+.sidebar {
+  float: right;
+  background-color: yellow;
+  border-style: solid;
+  border-color: #000000;
+  margin: 12px;
+  padding: 5px;
+}
+.box {
+  border: 2px solid green;
+  padding: 5px;
+  margin: 12px;
+  background-color: orange;
+}
