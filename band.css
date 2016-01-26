@@ -1,6 +1,7 @@
 .column {
   width: 300px;
   float: left;
+
 }
 .img {
   float:left;
@@ -12,12 +13,14 @@
   background-color: yellow;
   border-style: solid;
   border-color: #000000;
+  border-radius: 5px;
   margin: 12px;
   padding: 5px;
 }
 .box {
-  border: 2px solid green;
+  border: 3px solid green;
+  border-radius: 5px;
   padding: 5px;
   margin: 12px;
-  background-color: orange;
+  background-color: #ffcc99;
 }
